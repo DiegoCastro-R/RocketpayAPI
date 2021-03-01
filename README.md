@@ -1,6 +1,6 @@
 # Rocketpay
 
-<h6> API Desenvolvido na #NLW4 da Rocketseat </h6>
+<h6> API Desenvolvida no Evento #NLW4 da Rocketseat </h6>
 
 ## Tecnologias
 
